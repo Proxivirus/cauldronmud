@@ -6,7 +6,7 @@ Cauldron Mud allows you to instantly convert any type of dirt into mud when thro
 </p>
 
 <p align="center">
-<a align="center"><img src="https://s13.gifyu.com/images/SJIir.gif" alt="Dirt converting into mud inside cauldron" width="400" height="1"></a>
+<a align="center"><img src="https://s13.gifyu.com/images/SJIir.gif" alt="Dirt converting into mud inside cauldron" width="400" height="300"></a>
 </p>
 
 ## <p align="center">Having issues with something? Got suggestion to make? Or do you just like joining Discord servers?
