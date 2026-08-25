@@ -1,7 +1,21 @@
 {
-	"pack": {
-		"pack_format": 57,
-		"description": "Cauldron Mud by Proxi"
-	},
-	"id": "cauldron_mud"
+  "pack": {
+    "pack_format": 48,
+    "supported_formats": {
+      "min_inclusive": 48,
+      "max_inclusive": 108
+    },
+    "min_format": 48,
+    "max_format": 108,
+    "description": "Cauldron Mud by Proxi"
+  },
+  "overlays": {
+    "entries": [
+      {
+      "min_format": 108,
+      "max_format": 108,
+      "directory": "overlay_108"
+    }
+    ]
+  }
 }
